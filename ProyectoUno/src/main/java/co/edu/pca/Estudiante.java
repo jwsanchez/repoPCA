@@ -56,7 +56,7 @@ public class Estudiante extends Persona{
      */
     @Override
     public String toString() {
-       return "Id: "+id+" - Nombre: "+nombre+" - Programa" +programa+" - Promedio: "+promedio;
+       return "Id: "+id+" - Nombre: "+nombre+" - Programa: " +programa+" - Promedio: "+promedio;
     }
     
     
